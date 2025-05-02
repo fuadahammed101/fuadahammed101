@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fuad Ahammed</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadahammed101&label=Profile%20views&color=0e75b6&style=flat" alt="fuadahammed101" /> </p>
 
-- 🔭 I’m currently working on **AI-Enhanced Online Booking System for Events and Reservations**
 
-- 📫 How to reach me **fuad185958@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
