@@ -17,9 +17,7 @@
   <a href="https://twitter.com/fuad_ahammed101" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuad_ahammed101" height="30" width="40" />
   </a>
-  <a href="https://gmail.com/fuad185958@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="fuad185958@gmail.com" height="30" width="40" />
-  </a>
+ 
 </p>
 
 
