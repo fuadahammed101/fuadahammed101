@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fuad Ahammed</h1>
-<h3 align="center">💻 CSE Undergraduate | Green University of Bangladesh | Tech Enthusiast</h3>
+<h3 align="center">💻 CSE Undergraduate | Green University of Bangladesh | IEEE Volunteer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadahammed101&label=Profile%20views&color=0e75b6&style=flat" alt="fuadahammed101" /> </p>
 
