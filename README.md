@@ -17,9 +17,7 @@
   <a href="https://twitter.com/fuad_ahammed101" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuad_ahammed101" height="30" width="40" />
   </a>
-<a href="https://ieee-collabratec.ieee.org/app/p/fuadahammed101" target="_blank">
-  <img align="center" src="https://ieee.org/img/favicon.ico" alt="IEEE Collabratec" height="30" width="30" />
-</a>
+
 
 </p>
 
