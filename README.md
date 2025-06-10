@@ -3,23 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadahammed101&label=Profile%20views&color=0e75b6&style=flat" alt="fuadahammed101" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/fuad.ahammed.101" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuad.ahammed.101" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/fuad.ahammed.101" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fuad.ahammed.101" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/fuad.ahammed.101" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuad.ahammed.101" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/fuad_ahammed101" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuad_ahammed101" height="30" width="40" />
-  </a>
 
-
-</p>
 
 
 
