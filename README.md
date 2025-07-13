@@ -2,7 +2,9 @@
 <h3 align="center">💻 CSE Undergraduate | Green University of Bangladesh | IEEE Volunteer</h3>
 
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fuadahammed101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 
 
