@@ -6,6 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=fuadahammed101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank">
+    📄 View My CV
+  </a>
+</p>
 
 
 
