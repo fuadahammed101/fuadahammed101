@@ -7,17 +7,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_My_CV-6A1B9A?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My CV">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank">
-    <img src=https://komarev.com/ghpvc/?username=fuadahammed101&label=CV&color=0e75b6&style=flat"" alt="View My CV">
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -52,5 +41,10 @@
 </p>
 
 ![Fuad's Graph](https://github-readme-activity-graph.vercel.app/graph?username=fuadahammed101&custom_title=Fuad's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄_View_My_CV-6A1B9A?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My CV">
+  </a>
+</p>
 
 <br/>
