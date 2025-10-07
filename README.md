@@ -12,10 +12,9 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank">
-    📄 <strong>View My CV</strong>
+    <img src="https://img.shields.io/badge/📄_View_My_CV-00C853?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My CV">
   </a>
 </p>
 
