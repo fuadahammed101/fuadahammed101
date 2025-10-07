@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank">
-    <img src=https://komarev.com/ghpvc/?username=fuadahammed101&label=View%My%20CV&color=0e75b6&style=flat"" alt="View My CV">
+    <img src=https://komarev.com/ghpvc/?username=fuadahammed101&label=View My%20CV&color=0e75b6&style=flat"" alt="View My CV">
   </a>
 </p>
 
