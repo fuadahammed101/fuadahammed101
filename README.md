@@ -7,10 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank" 
+     style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; 
+            font-size: 16px; font-weight: bold; text-decoration: none; border-radius: 8px; transition: 0.3s;">
     📄 View My CV
   </a>
 </p>
+
 
 
 
