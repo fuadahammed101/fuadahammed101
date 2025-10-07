@@ -12,6 +12,12 @@
             font-size: 16px; font-weight: bold; text-decoration: none; border-radius: 8px; transition: 0.3s;">
     📄 View My CV
   </a>
+  <a href="..." target="_blank" style="...; transition: 0.3s;" 
+   onmouseover="this.style.backgroundColor='#45a049';" 
+   onmouseout="this.style.backgroundColor='#4CAF50';">
+   📄 View My CV
+</a>
+
 </p>
 
 
