@@ -7,13 +7,30 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank" 
-     style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; 
-            font-size: 16px; font-weight: bold; text-decoration: none; border-radius: 8px; transition: 0.3s;">
+  <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank" class="cv-badge">
     📄 View My CV
   </a>
-
 </p>
+
+<style>
+.cv-badge {
+  display: inline-block;
+  padding: 8px 16px;
+  background: linear-gradient(135deg, #1976D2, #0D47A1); /* IEEE-inspired blue */
+  color: #fff;
+  font-weight: 600;
+  font-family: 'Segoe UI', sans-serif;
+  border-radius: 20px;
+  text-decoration: none;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+.cv-badge:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+</style>
+
 
 
 
