@@ -10,7 +10,7 @@
   <a href="https://drive.google.com/file/d/1M_AqW8UYRL1J4pQLLtow_f0VoYzq066h/view?usp=drive_link" target="_blank" class="cv-badge">
     📄 View My CV
   </a>
-</p>
+
 
 <style>
 .cv-badge {
@@ -31,7 +31,7 @@
 }
 </style>
 
-
+</p>
 
 
 
