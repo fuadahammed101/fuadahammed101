@@ -19,6 +19,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<h3 align="left">Software Quality Assurance Skills:</h3>
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge)
+![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-117864?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-C0392B?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC%20%26%20STLC-6C3483?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%20Testing-F39C12?style=for-the-badge)
 
 
 <br/>
