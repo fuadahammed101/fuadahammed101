@@ -8,8 +8,9 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills & Tools:</h3>
 
+<!-- Programming & Technical Basics -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,16 +20,29 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<h3 align="left">Software Quality Assurance Skills:</h3>
+
+<br/>
+
+<!-- Software Quality Assurance -->
+<h3 align="left">Software Quality Assurance:</h3>
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge)
 ![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-117864?style=for-the-badge)
+![Test Planning](https://img.shields.io/badge/Test%20Planning-1F618D?style=for-the-badge)
+![Risk--Based Testing](https://img.shields.io/badge/Risk--Based%20Testing-7D3C98?style=for-the-badge)
 ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-C0392B?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC%20%26%20STLC-6C3483?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile%20Testing-F39C12?style=for-the-badge)
-
+![Reporting & Documentation](https://img.shields.io/badge/Reporting%20%26%20Documentation-566573?style=for-the-badge)
+![SDLC & STLC](https://img.shields.io/badge/SDLC%20%26%20STLC-6C3483?style=for-the-badge)
+![Agile Testing](https://img.shields.io/badge/Agile%20Testing-F39C12?style=for-the-badge)
 
 <br/>
+
+<!-- Tools -->
+<h3 align="left">Testing & Collaboration Tools:</h3>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 
 ## Github Stats -
