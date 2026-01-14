@@ -8,7 +8,7 @@
 
 
 
-<h3 align="left">Skills & Tools:</h3>
+<h3 align="left">Skills & Languages:</h3>
 
 <!-- Programming & Technical Basics -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
