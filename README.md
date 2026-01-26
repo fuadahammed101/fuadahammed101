@@ -29,7 +29,6 @@
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge)
 ![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-117864?style=for-the-badge)
 ![Test Planning](https://img.shields.io/badge/Test%20Planning-1F618D?style=for-the-badge)
-![Risk--Based Testing](https://img.shields.io/badge/Risk--Based%20Testing-7D3C98?style=for-the-badge)
 ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-C0392B?style=for-the-badge)
 ![Reporting & Documentation](https://img.shields.io/badge/Reporting%20%26%20Documentation-566573?style=for-the-badge)
 ![SDLC & STLC](https://img.shields.io/badge/SDLC%20%26%20STLC-6C3483?style=for-the-badge)
