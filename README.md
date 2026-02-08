@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fuad Ahammed</h1>
-<h3 align="center">💻 CSE Undergraduate | Green University of Bangladesh | IEEE Volunteer</h3>
+<h3 align="center">💻 CSE Graduate | Green University of Bangladesh | IEEE Volunteer</h3>
 
 
 <p align="center">
