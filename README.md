@@ -49,34 +49,10 @@ Passionate about software testing, quality assurance, and building reliable soft
 
 ---
 
-## 📂 Featured Projects
 
-### 🌾 iFarm – Integrated Agricultural Platform
-
-Academic project focused on building a digital platform for farmers to access equipment, labor, and agricultural services.
-
-**Key Contributions:**
-
-- Led the **development team** and coordinated project delivery.
-- Served as the **primary QA tester**, designing and executing test scenarios.
-- Performed **manual testing** for modules including product listings, labor hiring, and OTP verification.
-- Created **functional test cases** and documented defects during testing.
-- Validated database accuracy using **MySQL queries**.
-
-🔗 Repository:  
-https://github.com/fuadahammed101
 
 ---
 
-### 📱 Android Media Player Application
-
-Developed a media player application using **Android Studio**.
-
-**Features:**
-
-- Video playback functionality
-- Media control features
-- Android activity lifecycle implementation
 
 ---
 
@@ -113,14 +89,7 @@ Softvence IT Ltd | 2026 – Present
 
 ---
 
-## 🏆 Leadership & Volunteering
 
-- **Public Relations Coordinator** – IEEE Computer Society Bangladesh Chapter (Team SPARK)
-- **Ambassador** – IEEE YESIST 2025
-- **Ambassador** – IEEE Day 2024
-- **Best Ambassador** – International Congress on Recent Trends in Computer Science (ICRTCS) 2024
-
----
 
 ## 📊 GitHub Stats
 
