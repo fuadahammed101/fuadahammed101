@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fuad Ahammed</h1>
-<h3 align="center">Software Quality Assurance (SQA) Enthusiast | CSE Graduate | IEEE Volunteer</h3>
+<h3 align="center">Software Quality Assurance (SQA) Enthusiast | CSE Graduate | Communicator | IEEE Volunteer</h3>
 
 <p align="center">
-  Passionate about software testing, quality assurance, and building reliable software systems.
+Passionate about software testing, quality assurance, and building reliable software systems.
 </p>
 
 <p align="center">
@@ -15,18 +15,21 @@
 
 - 🎓 CSE Graduate from **Green University of Bangladesh**
 - 🧪 Passionate about **Software Testing & Quality Assurance**
-- 🔍 Experienced in **Manual Testing, Test Case Design, and Bug Reporting**
-- 🧰 Tools: **Postman, Jira, MySQL**
-- 🤝 Strong **Communicator & Collaborative Team Player**
-- 🌍 Active **IEEE Volunteer**
+- 🔍 Experienced in **Manual Testing, Test Case Design, Bug Reporting, and API Testing**
+- 💻 Interested in **Vibe Coding and modern development workflows**
+- 🧰 Tools: **Postman, Jira, MySQL, Chrome DevTools, LaTeX**
+- 🤝 Strong **Communicator and Collaborative Team Player**
+- 🌍 Active **IEEE Volunteer & Community Contributor**
 
 ---
 
 ## 🛠 Skills & Tools
 
-### Programming
+### Programming & Development
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -42,40 +45,80 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🌾 iFarm – Integrated Agricultural Platform
-- Web platform connecting farmers with equipment, labor, and agricultural officers.
-- Includes **AI chatbot and live chat support**.
-- Role: **Frontend Development**
 
-🔗 Project Repository:  
+Academic project focused on building a digital platform for farmers to access equipment, labor, and agricultural services.
+
+**Key Contributions:**
+
+- Led the **development team** and coordinated project delivery.
+- Served as the **primary QA tester**, designing and executing test scenarios.
+- Performed **manual testing** for modules including product listings, labor hiring, and OTP verification.
+- Created **functional test cases** and documented defects during testing.
+- Validated database accuracy using **MySQL queries**.
+
+🔗 Repository:  
 https://github.com/fuadahammed101
 
 ---
 
-### 📱 Android Media Player App
-- Built a media player application using **Android Studio**.
-- Supports **video playback and media controls**.
+### 📱 Android Media Player Application
+
+Developed a media player application using **Android Studio**.
+
+**Features:**
+
+- Video playback functionality
+- Media control features
+- Android activity lifecycle implementation
 
 ---
 
 ### 🧪 Software Testing Practice
-- Writing **test cases**
-- **Bug reporting**
-- API testing with **Postman**
+
+Hands-on practice focused on strengthening **Software Quality Assurance skills**.
+
+**Activities:**
+
+- Writing structured **test scenarios and test cases**
+- Performing **functional and regression testing**
+- **Bug reporting and defect tracking**
+- **API testing using Postman**
+- Validating **JSON responses**
+
+---
+
+## 💼 Experience
+
+**Trainee Foreign Communicator**  
+Softvence IT Ltd | 2026 – Present
+
+- Communicating with international clients to gather requirements and resolve inquiries.
+- Maintaining professional written communication and follow-up processes.
+- Coordinating with internal teams to ensure smooth workflow and issue resolution.
+
+**Software Quality Assurance Intern**  
+9AM Solution | 2025
+
+- Performed **functional, regression, smoke, and UI testing**.
+- Designed **test scenarios based on requirements and workflows**.
+- Reported and tracked defects using **Jira**.
+- Conducted **API testing using Postman**.
 
 ---
 
 ## 🏆 Leadership & Volunteering
 
-- IEEE Computer Society Bangladesh Chapter – **Public Relations Team Coordinator**
-- IEEE YESIST 2025 – **Ambassador**
-- IEEE Day 2024 – **Ambassador**
-- Best Ambassador – **ICRTCS 2024**
+- **Public Relations Coordinator** – IEEE Computer Society Bangladesh Chapter (Team SPARK)
+- **Ambassador** – IEEE YESIST 2025
+- **Ambassador** – IEEE Day 2024
+- **Best Ambassador** – International Congress on Recent Trends in Computer Science (ICRTCS) 2024
 
 ---
 
@@ -109,6 +152,6 @@ https://github.com/fuadahammed101
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn
-- 📧 Email
-- 🌐 GitHub
+- 💼 LinkedIn: https://linkedin.com/in/fuad-ahammed-dev
+- 📧 Email: fuad.ahammed.cse@gmail.com
+- 🌐 GitHub: https://github.com/fuadahammed101
