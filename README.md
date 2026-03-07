@@ -14,11 +14,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE Graduate from **Green University of Bangladesh**
-- 🧪 Interested in **Software Testing & Quality Assurance**
-- 🔍 Experienced in **Manual Testing, Test Case Design, Bug Reporting**
+- 🧪 Passionate about **Software Testing & Quality Assurance**
+- 🔍 Experienced in **Manual Testing, Test Case Design, and Bug Reporting**
 - 🧰 Tools: **Postman, Jira, MySQL**
+- 🤝 Strong **Communicator & Collaborative Team Player**
 - 🌍 Active **IEEE Volunteer**
-- 📚 Currently learning **Automation Testing & Performance Testing (JMeter)**
 
 ---
 
