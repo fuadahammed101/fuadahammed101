@@ -78,9 +78,11 @@ Hands-on practice focused on strengthening **Software Quality Assurance skills**
 **Trainee Foreign Communicator**  
 Softvence IT Ltd | 2026 – Present
 
-- Communicating with international clients to gather requirements and resolve inquiries.
-- Maintaining professional written communication and follow-up processes.
-- Coordinating with internal teams to ensure smooth workflow and issue resolution.
+- Gather and clarify client requirements, ensuring accurate understanding for development and QA processes.
+- Analyze client feedback to identify potential defects, usability issues, and requirement gaps.
+- Collaborate with development teams to validate requirements and ensure alignment with expected functionality.
+- Assist in reproducing reported issues and verifying fixes based on client-reported scenarios.
+- Maintain clear documentation of client requirements, feedback, and issue tracking to support testing activities.
 
 **Software Quality Assurance Intern**  
 9AM Solution | 2025
