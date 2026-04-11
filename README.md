@@ -16,8 +16,8 @@ Passionate about software testing, quality assurance, and building reliable soft
 - 🎓 CSE Graduate from **Green University of Bangladesh**
 - 🧪 Passionate about **Software Testing & Quality Assurance**
 - 🔍 Experienced in **Manual Testing, Test Case Design, Bug Reporting, and API Testing**
-- 💻 Interested in **Vibe Coding and modern development workflows**
-- 🧰 Tools: **Postman, Jira, MySQL, Chrome DevTools, LaTeX**
+- 💻 Interested in **AI-Driven development workflows**
+- 🧰 Tools: **Postman, Jira, MySQL, Playwright, Chrome DevTools, LaTeX**
 - 🤝 Strong **Communicator and Collaborative Team Player**
 - 🌍 Active **IEEE Volunteer & Community Contributor**
 
@@ -34,6 +34,9 @@ Passionate about software testing, quality assurance, and building reliable soft
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Software Testing
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-2E86C1?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-1F618D?style=for-the-badge)
+![Sanity Testing](https://img.shields.io/badge/Sanity%20Testing-148F77?style=for-the-badge)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge)
 ![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-117864?style=for-the-badge)
 ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-C0392B?style=for-the-badge)
@@ -45,8 +48,8 @@ Passionate about software testing, quality assurance, and building reliable soft
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
 ---
 
 
@@ -112,7 +115,7 @@ Softvence IT Ltd | 2026 – Present
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/19rbMr83JzSHeUs3fg8-gnKUQgBz1gZ0e/view">
+  <a href="[https://drive.google.com/file/d/19rbMr83JzSHeUs3fg8-gnKUQgBz1gZ0e/view](https://drive.google.com/file/d/1R9bj_cLqRguYngU_EHvRlx8f9-iouPxD/view?usp=sharing)">
     <img src="https://img.shields.io/badge/View%20My%20CV-purple?style=for-the-badge&logo=google-drive"/>
   </a>
 </p>
