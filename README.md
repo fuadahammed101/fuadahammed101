@@ -113,11 +113,10 @@ Softvence IT Ltd | 2026 – Present
 ## 📄 Resume
 
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1R9bj_cLqRguYngU_EHvRlx8f9-iouPxD/view?usp=sharing" target="_blank](https://drive.google.com/file/d/1Kqry2FA_jADw1y5zkNXiw3WYh2DORv6C/view?usp=sharing)">
+  <a href="https://drive.google.com/file/d/1Kqry2FA_jADw1y5zkNXiw3WYh2DORv6C/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-purple?style=for-the-badge&logo=google-drive"/>
   </a>
 </p>
-
 ---
 
 ## 📫 Connect With Me
