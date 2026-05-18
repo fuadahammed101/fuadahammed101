@@ -17,7 +17,7 @@ Passionate about software testing, quality assurance, and building reliable soft
 - 🧪 Passionate about **Software Testing & Quality Assurance**
 - 🔍 Experienced in **Manual Testing, Test Case Design, Bug Reporting, and API Testing**
 - 💻 Interested in **AI-Driven development workflows**
-- 🧰 Tools: **Postman, Jira, MySQL, Playwright, Chrome DevTools, LaTeX**
+- 🧰 Tools: **Postman, ClickUp, MySQL, Playwright, Chrome DevTools, LaTeX**
 - 🤝 Strong **Communicator and Collaborative Team Player**
 - 🌍 Active **IEEE Volunteer & Community Contributor**
 
