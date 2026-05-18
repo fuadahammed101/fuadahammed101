@@ -55,42 +55,6 @@ Passionate about software testing, quality assurance, and building reliable soft
 
 ---
 
-### 🧪 Software Testing Practice
-
-Hands-on practice focused on strengthening **Software Quality Assurance skills**.
-
-**Activities:**
-
-- Writing structured **test scenarios and test cases**
-- Performing **functional and regression testing**
-- **Bug reporting and defect tracking**
-- **API testing using Postman**
-- Validating **JSON responses**
-
----
-
-## 💼 Experience
-
-**Trainee Foreign Communicator**  
-Softvence IT Ltd | 2026 – Present
-
-- Gather and clarify client requirements, ensuring accurate understanding for development and QA processes.
-- Analyze client feedback to identify potential defects, usability issues, and requirement gaps.
-- Collaborate with development teams to validate requirements and ensure alignment with expected functionality.
-- Assist in reproducing reported issues and verifying fixes based on client-reported scenarios.
-- Maintain clear documentation of client requirements, feedback, and issue tracking to support testing activities.
-
-**Software Quality Assurance Intern**  
-9AM Solution | 2025
-
-- Performed **functional, regression, smoke, and UI testing**.
-- Designed **test scenarios based on requirements and workflows**.
-- Reported and tracked defects using **Jira**.
-- Conducted **API testing using Postman**.
-
----
-
-
 
 ## 📊 GitHub Stats
 
