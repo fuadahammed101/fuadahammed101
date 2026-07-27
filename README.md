@@ -12,15 +12,15 @@ Jr. Software QA Engineer at Arogga Limited, ensuring the quality and reliability
 
 ## 👨‍💻 About Me
 
- 💼 Currently working as **Jr. Software QA Engineer at Arogga Limited**
- 🎓 CSE Graduate from **Green University of Bangladesh**
- 🧪 Experienced in **Manual Testing, Functional Testing, Regression Testing, API Testing, Database Validation, Test Case Design, and Bug Reporting**
- 📱 Testing **production-grade Web, Mobile, and ERP/CRM applications**
- 🤖 Currently learning **Playwright Automation with JavaScript**
- 🧰 Tools: **Postman, Playwright, MySQL, ClickUp, Chrome DevTools, Git/GitHub, VS Code, LaTeX**
- 🤝 Strong communicator with experience collaborating in **Agile/Scrum** teams
- 🌍 **Publicity Coordinator at IEEE Computer Society Bangladesh Chapter**, contributing to technical initiatives, community engagement, and event coordination
- 🚀 Passionate about delivering high-quality software and continuously improving testing practices
+- 💼 Currently working as **Jr. Software QA Engineer at Arogga Limited**
+- 🎓 CSE Graduate from **Green University of Bangladesh**
+- 🧪 Experienced in **Manual Testing, Functional Testing, Regression Testing, API Testing, Database Validation, Test Case Design, and Bug Reporting**
+- 📱 Testing **production-grade Web, Mobile, and ERP/CRM applications**
+- 🤖 Currently learning **Playwright Automation with JavaScript**
+- 🧰 Tools: **Postman, Playwright, MySQL, ClickUp, Chrome DevTools, Git/GitHub, VS Code, LaTeX**
+- 🤝 Strong communicator with experience collaborating in **Agile/Scrum** teams
+- 🌍 **Publicity Coordinator at IEEE Computer Society Bangladesh Chapter**, contributing to technical initiatives, community engagement, and event coordination
+- 🚀 Passionate about delivering high-quality software and continuously improving testing practices
 
 
 ---
@@ -51,7 +51,17 @@ Jr. Software QA Engineer at Arogga Limited, ensuring the quality and reliability
 
 
 ---
+## 💼 Experience
 
+### Jr. Software QA Engineer
+**Arogga Limited**
+
+- Perform manual testing for production-grade web and mobile applications
+- Design and execute functional, regression, smoke, sanity, and exploratory test cases
+- Validate REST APIs using Postman
+- Perform database validation using MySQL
+- Report and verify defects using ClickUp
+- Collaborate with developers, product managers, and designers in Agile/Scrum
 
 ---
 
