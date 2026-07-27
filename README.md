@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fuad Ahammed</h1>
-<h3 align="center">Software Quality Assurance (SQA) Enthusiast | CSE Graduate | Communicator | IEEE Volunteer</h3>
-
+<h3 align="center">Jr. Software QA Engineer @ Arogga Limited | Software Testing | API Testing | IEEE CS Bangladesh Chapter</h3>
 <p align="center">
-Passionate about software testing, quality assurance, and building reliable software systems.
+Jr. Software QA Engineer at Arogga Limited, ensuring the quality and reliability of production-grade web and mobile applications through manual testing, API validation, and collaborative Agile development.
 </p>
 
 <p align="center">
@@ -13,13 +12,16 @@ Passionate about software testing, quality assurance, and building reliable soft
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE Graduate from **Green University of Bangladesh**
-- 🧪 Passionate about **Software Testing & Quality Assurance**
-- 🔍 Experienced in **Manual Testing, Test Case Design, Bug Reporting, and API Testing**
-- 💻 Interested in **AI-Driven development workflows**
-- 🧰 Tools: **Postman, ClickUp, MySQL, Playwright, Chrome DevTools, LaTeX**
-- 🤝 Strong **Communicator and Collaborative Team Player**
-- 🌍 Active **IEEE Volunteer & Community Contributor**
+ 💼 Currently working as **Jr. Software QA Engineer at Arogga Limited**
+ 🎓 CSE Graduate from **Green University of Bangladesh**
+ 🧪 Experienced in **Manual Testing, Functional Testing, Regression Testing, API Testing, Database Validation, Test Case Design, and Bug Reporting**
+ 📱 Testing **production-grade Web, Mobile, and ERP/CRM applications**
+ 🤖 Currently learning **Playwright Automation with JavaScript**
+ 🧰 Tools: **Postman, Playwright, MySQL, ClickUp, Chrome DevTools, Git/GitHub, VS Code, LaTeX**
+ 🤝 Strong communicator with experience collaborating in **Agile/Scrum** teams
+ 🌍 **Publicity Coordinator at IEEE Computer Society Bangladesh Chapter**, contributing to technical initiatives, community engagement, and event coordination
+ 🚀 Passionate about delivering high-quality software and continuously improving testing practices
+
 
 ---
 
@@ -36,9 +38,7 @@ Passionate about software testing, quality assurance, and building reliable soft
 ![SDLC](https://img.shields.io/badge/SDLC-6C3483?style=for-the-badge)
 ![STLC](https://img.shields.io/badge/STLC-6C3483?style=for-the-badge)
 ![Agile Testing](https://img.shields.io/badge/Agile-F39C12?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -74,17 +74,9 @@ Passionate about software testing, quality assurance, and building reliable soft
 
 ---
 
-## 📄 Resume
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1Kqry2FA_jADw1y5zkNXiw3WYh2DORv6C/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-purple?style=for-the-badge&logo=google-drive"/>
-  </a>
-</p>
----
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/fuad-ahammed-dev
 - 📧 Email: fuad.ahammed.cse@gmail.com
-- 🌐 GitHub: https://github.com/fuadahammed101
+- 🌐 Portfolio: fuadahammed.vercel.app
