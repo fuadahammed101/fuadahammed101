@@ -85,7 +85,7 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 
 ---
 
-### Foreign Communicator (Software Sales & Project Coordination) *(Full-time)*
+### Foreign Communicator - Software Sales & Project Coordination *(Full-time)*
 **Betopia Group** | Dhaka, Bangladesh  
 *Jan 2026 – Apr 2026*
 
@@ -111,7 +111,7 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 ---
 
 
-### Software QA Engineer *(Full-time Contract)*
+### Software QA Engineer *(Contract)*
 **9AM Solution** | Uttara, Dhaka, Bangladesh  
 *Nov 2025 – Dec 2025*
 
