@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fuad Ahammed</h1>
-<h3 align="center">Jr. Software QA Engineer @ Arogga Limited | Software Testing | API Testing | IEEE CS Bangladesh Chapter</h3>
+<h3 align="center">Jr. Software QA Engineer @ Arogga Limited | Coordinator @ IEEE CS Bangladesh Chapter</h3>
 <p align="center">
-Jr. Software QA Engineer at Arogga Limited, ensuring the quality and reliability of production-grade web and mobile applications through manual testing, API validation, and collaborative Agile development.
+Ensuring the quality and reliability of production-grade web and mobile applications through manual testing, API validation, and collaborative Agile development.
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@ Jr. Software QA Engineer at Arogga Limited, ensuring the quality and reliability
 - 🎓 CSE Graduate from **Green University of Bangladesh**
 - 🧪 Experienced in **Manual Testing, Functional Testing, Regression Testing, API Testing, Database Validation, Test Case Design, and Bug Reporting**
 - 📱 Testing **production-grade Web, Mobile, and ERP/CRM applications**
-- 🤖 Currently learning **Playwright Automation with JavaScript**
 - 🧰 Tools: **Postman, Playwright, MySQL, ClickUp, Chrome DevTools, Git/GitHub, VS Code, LaTeX**
 - 🤝 Strong communicator with experience collaborating in **Agile/Scrum** teams
 - 🌍 **Publicity Coordinator at IEEE Computer Society Bangladesh Chapter**, contributing to technical initiatives, community engagement, and event coordination
@@ -54,15 +53,53 @@ Jr. Software QA Engineer at Arogga Limited, ensuring the quality and reliability
 ## 💼 Experience
 
 ### Jr. Software QA Engineer
-**Arogga Limited**
+**Arogga Limited** | Dhaka, Bangladesh  
+*Apr 2026 – Present*
 
-- Perform manual testing for production-grade web and mobile applications
-- Design and execute functional, regression, smoke, sanity, and exploratory test cases
-- Validate REST APIs using Postman
-- Perform database validation using MySQL
-- Report and verify defects using ClickUp
-- Collaborate with developers, product managers, and designers in Agile/Scrum
+- Perform manual testing for production-grade Web, Mobile, and ERP/CRM applications.
+- Design and execute functional, regression, smoke, sanity, and exploratory test cases.
+- Validate REST APIs using Postman and perform database validation using MySQL.
+- Report, verify, and track defects while collaborating with developers in an Agile/Scrum environment.
+- Contribute to delivering high-quality software through continuous testing and release validation.
 
+
+---
+
+### Foreign Communicator (Software Sales & Project Coordination)
+**Betopia Group** | Dhaka, Bangladesh  
+*Jan 2026 – Apr 2026*
+
+- Communicated with international clients to gather requirements and clarify project expectations.
+- Maintained structured stakeholder communication and tracked project progress.
+- Coordinated with development teams to resolve blockers and improve workflow efficiency.
+- Documented client requirements, feedback, and project updates.
+- Assisted in requirement analysis and supported smooth project execution.
+
+---
+
+### Team Lead • QA Engineer
+**iFarm Limited** | Dhaka, Bangladesh  
+*Mar 2025 – Jan 2026*
+
+- Led the development team while coordinating project delivery and team collaboration.
+- Served as the QA tester by designing and executing test scenarios for core user workflows.
+- Performed manual testing on product listing, labour hiring, authentication, and OTP verification modules.
+- Created functional test cases and validated database records using MySQL.
+- Implemented AI-driven Playwright automation scripts for key user workflows.
+- Identified and verified **100+ defects** across the web platform throughout the bug lifecycle.
+
+---
+
+
+### Software QA Engineer
+**9AM Solution** | Uttara, Dhaka, Bangladesh  
+*Nov 2025 – Dec 2025*
+
+- Executed functional, regression, smoke, sanity, and UI testing to ensure application stability.
+- Designed and executed test scenarios based on requirements and user workflows.
+- Validated REST APIs using Postman by verifying status codes, headers, and JSON responses.
+- Collaborated with QA engineers and developers to reproduce issues and verify bug fixes.
+- Contributed to improving software reliability through structured testing and documentation.
 ---
 
 
@@ -89,4 +126,4 @@ Jr. Software QA Engineer at Arogga Limited, ensuring the quality and reliability
 
 - 💼 LinkedIn: https://linkedin.com/in/fuad-ahammed-dev
 - 📧 Email: fuad.ahammed.cse@gmail.com
-- 🌐 Portfolio: fuadahammed.vercel.app
+- 🌐 Portfolio: [fuadahammed.vercel.app](https://fuadahammed.vercel.app/)
