@@ -26,33 +26,53 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 
 ## 🛠 Skills & Tools
 
-
-### Software Testing
+### 🧪 Software Testing
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge)
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-2E86C1?style=for-the-badge)
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-1F618D?style=for-the-badge)
+![Smoke Testing](https://img.shields.io/badge/Smoke%20Testing-148F77?style=for-the-badge)
 ![Sanity Testing](https://img.shields.io/badge/Sanity%20Testing-148F77?style=for-the-badge)
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2E86C1?style=for-the-badge)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-117864?style=for-the-badge)
+![UI Testing](https://img.shields.io/badge/UI%20Testing-5D6D7E?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-F39C12?style=for-the-badge)
+![Database Validation](https://img.shields.io/badge/Database%20Validation-8E44AD?style=for-the-badge)
+![Cross-Browser Testing](https://img.shields.io/badge/Cross--Browser%20Testing-566573?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-16A085?style=for-the-badge)
+![Black-box Testing](https://img.shields.io/badge/Black--box%20Testing-C0392B?style=for-the-badge)
+
+### 📋 QA Practices
+![Requirement Analysis](https://img.shields.io/badge/Requirement%20Analysis-5B2C6F?style=for-the-badge)
+![Figma Review](https://img.shields.io/badge/Figma%20Review-A93226?style=for-the-badge)
+![Test Planning](https://img.shields.io/badge/Test%20Planning-2471A3?style=for-the-badge)
 ![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-117864?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-C0392B?style=for-the-badge)
+![Test Execution](https://img.shields.io/badge/Test%20Execution-1ABC9C?style=for-the-badge)
+![Defect Lifecycle](https://img.shields.io/badge/Defect%20Lifecycle-C0392B?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-E74C3C?style=for-the-badge)
+![Release Validation](https://img.shields.io/badge/Release%20Validation-27AE60?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-6C3483?style=for-the-badge)
 ![STLC](https://img.shields.io/badge/STLC-6C3483?style=for-the-badge)
-![Agile Testing](https://img.shields.io/badge/Agile-F39C12?style=for-the-badge)
+![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-F39C12?style=for-the-badge)
 
-
-### Tools
+### 🛠 Tools & Technologies
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
 
 
 
 ---
 ## 💼 Experience
 
-### Jr. Software QA Engineer
+### Jr. Software QA Engineer *(Full-time)*
 **Arogga Limited** | Dhaka, Bangladesh  
 *Apr 2026 – Present*
 
@@ -65,7 +85,7 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 
 ---
 
-### Foreign Communicator (Software Sales & Project Coordination)
+### Foreign Communicator (Software Sales & Project Coordination) *(Full-time)*
 **Betopia Group** | Dhaka, Bangladesh  
 *Jan 2026 – Apr 2026*
 
@@ -77,7 +97,7 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 
 ---
 
-### Team Lead • QA Engineer
+### Team Lead • QA Engineer (Contract)
 **iFarm Limited** | Dhaka, Bangladesh  
 *Mar 2025 – Jan 2026*
 
@@ -91,7 +111,7 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 ---
 
 
-### Software QA Engineer
+### Software QA Engineer *(Full-time Contract)*
 **9AM Solution** | Uttara, Dhaka, Bangladesh  
 *Nov 2025 – Dec 2025*
 
