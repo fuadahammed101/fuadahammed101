@@ -10,16 +10,14 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Highlights
 
-- 💼 Currently working as **Jr. Software QA Engineer at Arogga Limited**
-- 🎓 CSE Graduate from **Green University of Bangladesh**
-- 🧪 Experienced in **Manual Testing, Functional Testing, Regression Testing, API Testing, Database Validation, Test Case Design, and Bug Reporting**
-- 📱 Testing **production-grade Web, Mobile, and ERP/CRM applications**
-- 🧰 Tools: **Postman, Playwright, MySQL, ClickUp, Chrome DevTools, Git/GitHub, VS Code, LaTeX**
-- 🤝 Strong communicator with experience collaborating in **Agile/Scrum** teams
-- 🌍 **Publicity Coordinator at IEEE Computer Society Bangladesh Chapter**, contributing to technical initiatives, community engagement, and event coordination
-- 🚀 Passionate about delivering high-quality software and continuously improving testing practices
+- 💼 Jr. Software QA Engineer at **Arogga Limited**
+- 🧪 Testing production-grade **Web, Mobile & ERP/CRM** applications
+- 🔍 Experienced in **Manual Testing, API Testing & Database Validation**
+- 🤝 Collaborating with cross-functional teams in **Agile/Scrum** environments
+- 🌍 Publicity Coordinator at **IEEE Computer Society Bangladesh Chapter**
+- 🎓 B.Sc. in Computer Science & Engineering, **Green University of Bangladesh**
 
 
 ---
@@ -72,55 +70,24 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 ---
 ## 💼 Experience
 
-### Jr. Software QA Engineer *(Full-time)*
-**Arogga Limited** | Dhaka, Bangladesh  
-*Apr 2026 – Present*
+### 🧪 Jr. Software QA Engineer
+**Arogga Limited** | *Apr 2026 – Present*
 
-- Perform manual testing for production-grade Web, Mobile, and ERP/CRM applications.
-- Design and execute functional, regression, smoke, sanity, and exploratory test cases.
-- Validate REST APIs using Postman and perform database validation using MySQL.
-- Report, verify, and track defects while collaborating with developers in an Agile/Scrum environment.
-- Contribute to delivering high-quality software through continuous testing and release validation.
+- Testing production-grade **Web, Mobile, and ERP/CRM** applications.
+- Designing and executing manual test cases for functional, regression, smoke, sanity, and exploratory testing.
+- Validating REST APIs using **Postman** and databases using **MySQL**.
+- Reporting, verifying, and tracking defects while collaborating in **Agile/Scrum** teams.
 
+### 🌐 Previous Experience
 
----
+- **Foreign Communicator – Software Sales & Project Coordination**  
+  **Betopia Group** *(Jan 2026 – Apr 2026)*
 
-### Foreign Communicator - Software Sales & Project Coordination *(Full-time)*
-**Betopia Group** | Dhaka, Bangladesh  
-*Jan 2026 – Apr 2026*
+- **Team Lead & QA Engineer (Contract)**  
+  **iFarm Limited** *(Mar 2025 – Jan 2026)*
 
-- Communicated with international clients to gather requirements and clarify project expectations.
-- Maintained structured stakeholder communication and tracked project progress.
-- Coordinated with development teams to resolve blockers and improve workflow efficiency.
-- Documented client requirements, feedback, and project updates.
-- Assisted in requirement analysis and supported smooth project execution.
-
----
-
-### Team Lead • QA Engineer (Contract)
-**iFarm Limited** | Dhaka, Bangladesh  
-*Mar 2025 – Jan 2026*
-
-- Led the development team while coordinating project delivery and team collaboration.
-- Served as the QA tester by designing and executing test scenarios for core user workflows.
-- Performed manual testing on product listing, labour hiring, authentication, and OTP verification modules.
-- Created functional test cases and validated database records using MySQL.
-- Implemented AI-driven Playwright automation scripts for key user workflows.
-- Identified and verified **100+ defects** across the web platform throughout the bug lifecycle.
-
----
-
-
-### Software QA Engineer *(Contract)*
-**9AM Solution** | Uttara, Dhaka, Bangladesh  
-*Nov 2025 – Dec 2025*
-
-- Executed functional, regression, smoke, sanity, and UI testing to ensure application stability.
-- Designed and executed test scenarios based on requirements and user workflows.
-- Validated REST APIs using Postman by verifying status codes, headers, and JSON responses.
-- Collaborated with QA engineers and developers to reproduce issues and verify bug fixes.
-- Contributed to improving software reliability through structured testing and documentation.
----
+- **Software QA Engineer (Contract)**  
+  **9AM Solution** *(Nov 2025 – Dec 2025)*
 
 
 ## 📊 GitHub Stats
