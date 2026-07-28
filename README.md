@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fuad Ahammed</h1>
+<h1 align="center">Hi, I'm Fuad Ahammed</h1>
 <h3 align="center">Jr. Software QA Engineer @ Arogga Limited | Coordinator @ IEEE CS Bangladesh Chapter</h3>
 <p align="center">
 Ensuring the quality and reliability of production-grade web and mobile applications through manual testing, API validation, and collaborative Agile development.
@@ -126,11 +126,11 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=fuadahammed101&show_icons=true&theme=react"/>
+  <img weigth="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=fuadahammed101&show_icons=true&theme=react"/>
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fuadahammed101&layout=compact&theme=react"/>
+  <img weigth= "48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fuadahammed101&layout=compact&theme=react"/>
 </p>
 
 ---
