@@ -125,15 +125,17 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img weigth="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=fuadahammed101&show_icons=true&theme=react"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=fuadahammed101&show_icons=true&theme=react"/>
+</td>
 
-<p align="center">
-  <img weigth= "48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fuadahammed101&layout=compact&theme=react"/>
-</p>
-
----
+<td width="50%">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fuadahammed101&layout=compact&theme=react"/>
+</td>
+</tr>
+</table>
 
 ## 📈 Activity Graph
 
