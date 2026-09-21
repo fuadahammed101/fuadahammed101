@@ -83,11 +83,11 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 - **Foreign Communicator – Software Sales & Project Coordination**  
   **Betopia Group** *(Jan 2026 – Apr 2026)*
 
-- **Team Lead & QA Engineer (Contract)**  
-  **iFarm Limited** *(Mar 2025 – Jan 2026)*
-
 - **Software QA Engineer (Contract)**  
   **9AM Solution** *(Nov 2025 – Dec 2025)*
+
+- **Software QA Engineer (Remote)**  
+  **iFarm Limited** *(Mar 2025 – Jan 2026)*
 
 
 ## 📊 GitHub Stats
