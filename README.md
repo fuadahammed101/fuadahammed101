@@ -108,6 +108,10 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 
 ![Fuad's Graph](https://github-readme-activity-graph.vercel.app/graph?username=fuadahammed101)
 
+---## 📊 3D Contribution Graph
+
+![Fuad's 3D Contribution Graph](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
+
 ---
 
 
