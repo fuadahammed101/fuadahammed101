@@ -115,4 +115,4 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 
 - 💼 LinkedIn: https://linkedin.com/in/fuad-ahammed-dev
 - 📧 Email: fuad.ahammed.cse@gmail.com
-- 🌐 Portfolio: [fuadahammed.vercel.app](https://fuadahammed.vercel.app/)
+- 🌐 Portfolio: [fuadqa.vercel.app](https://fuadqa.vercel.app/)
