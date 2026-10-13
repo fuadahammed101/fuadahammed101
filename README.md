@@ -104,11 +104,7 @@ Ensuring the quality and reliability of production-grade web and mobile applicat
 </tr>
 </table>
 
-## 📈 Activity Graph
 
-![Fuad's Graph](https://github-readme-activity-graph.vercel.app/graph?username=fuadahammed101)
-
----
 
 
 ## 📫 Connect With Me
